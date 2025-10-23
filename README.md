@@ -4,9 +4,9 @@
 
 ---
 
-* [Задание 4]()
-* [Задание 7]()
-* [Задание 9]()
-* [Задание 10]()
-* [Задание 16]()
-* [Задание 22]()
+* [Задание 4](https://github.com/vdnrobo/russianEGE/tree/master/4)
+* [Задание 7](https://github.com/vdnrobo/russianEGE/tree/master/7)
+* [Задание 9](https://github.com/vdnrobo/russianEGE/tree/master/9)
+* [Задание 10](https://github.com/vdnrobo/russianEGE/tree/master/10)
+* [Задание 16](https://github.com/vdnrobo/russianEGE/tree/master/16)
+* [Задание 22](https://github.com/vdnrobo/russianEGE/tree/master/22)
