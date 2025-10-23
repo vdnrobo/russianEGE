@@ -4,6 +4,8 @@
 
 ---
 
+Далее представлены ссылки на папки с соответствующими материалами
+
 * [Задание 4](https://github.com/vdnrobo/russianEGE/tree/master/4)
 * [Задание 7](https://github.com/vdnrobo/russianEGE/tree/master/7)
 * [Задание 9](https://github.com/vdnrobo/russianEGE/tree/master/9)
