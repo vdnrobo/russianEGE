@@ -17,4 +17,4 @@
 
 Далее представлены работы в классе
 
-* [30 октября 2025](https://github.com/vdnrobo/russianEGE/classworks/25-10-30.md)
+* [30 октября 2025](https://github.com/vdnrobo/russianEGE/blob/master/classworks/25-10-30.md)
