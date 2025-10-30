@@ -12,3 +12,9 @@
 * [Задание 10](https://github.com/vdnrobo/russianEGE/tree/master/materials/10)
 * [Задание 16](https://github.com/vdnrobo/russianEGE/tree/master/materials/16)
 * [Задание 22](https://github.com/vdnrobo/russianEGE/tree/master/materials/22)
+
+---
+
+Далее представлены работы в классе
+
+* [30 октября 2025](https://github.com/vdnrobo/russianEGE/classworks/25-10-30.md)
