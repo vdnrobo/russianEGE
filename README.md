@@ -6,9 +6,9 @@
 
 Далее представлены ссылки на папки с соответствующими материалами
 
-* [Задание 4](https://github.com/vdnrobo/russianEGE/tree/master/04)
-* [Задание 7](https://github.com/vdnrobo/russianEGE/tree/master/07)
-* [Задание 9](https://github.com/vdnrobo/russianEGE/tree/master/09)
-* [Задание 10](https://github.com/vdnrobo/russianEGE/tree/master/10)
-* [Задание 16](https://github.com/vdnrobo/russianEGE/tree/master/16)
-* [Задание 22](https://github.com/vdnrobo/russianEGE/tree/master/22)
+* [Задание 4](https://github.com/vdnrobo/russianEGE/tree/master/materials/04)
+* [Задание 7](https://github.com/vdnrobo/russianEGE/tree/master/materials/07)
+* [Задание 9](https://github.com/vdnrobo/russianEGE/tree/master/materials/09)
+* [Задание 10](https://github.com/vdnrobo/russianEGE/tree/master/materials/10)
+* [Задание 16](https://github.com/vdnrobo/russianEGE/tree/master/materials/16)
+* [Задание 22](https://github.com/vdnrobo/russianEGE/tree/master/materials/22)
